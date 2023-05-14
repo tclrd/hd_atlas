@@ -5,6 +5,12 @@ Replaces the default GTA V map with an HD Atlas Map.
 
 Re-packed [omgugly's repo of all the maps](https://github.com/omgugly/dlk_maps_fivem) into a single repository to easily be cloned and added to a server.
 
+## Screenshots
+
+<div align='center'>
+<img src="https://dielikekane.files.wordpress.com/2017/06/demo-am-crop-template-0011.png" width="32%"></img> <img src="https://dielikekane.files.wordpress.com/2017/06/demo-am-crop-template-0021.png" width="32%"></img> <img src="https://dielikekane.files.wordpress.com/2017/06/demo-am-crop-template-0031.png" width="32%"></img> <img src="https://dielikekane.files.wordpress.com/2017/06/demo-am-crop-template-0041.png" width="48.5%"></img> <img src="https://dielikekane.files.wordpress.com/2017/06/demo-am-crop-template-0051.png" width="48.5%"></img> 
+</div>
+
 ## Credit
 
 All credit goes to [DieLikeKane](https://aothsa.com/2021/08/08/dlk-hd-atlas-map-for-fivem/) for the map.
